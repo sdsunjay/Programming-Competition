@@ -1,0 +1,7 @@
+No such command.
+
+The following commands are available:
+help           View help text on a command
+submit         Add a new submission
+problems       List problems
+grade          Grade submissions (internal only)
